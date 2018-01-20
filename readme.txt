@@ -1,0 +1,3 @@
+PYCHARM SETTINGS
+
+In PyCharm: File > Settings Repository...
