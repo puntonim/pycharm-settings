@@ -5,38 +5,5 @@
     <option name="defaultScopeName" value="Project and Libraries" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="Project and Libraries" />
-    <option name="FILE_MASK" value="*.py" />
-    <recentFileMasks>
-      <mask>*.jsp</mask>
-      <mask>*.xml</mask>
-      <mask>*.java</mask>
-      <mask>*.as</mask>
-      <mask>*.css</mask>
-      <mask>*.mxml</mask>
-      <mask>*.h</mask>
-      <mask>*.htm</mask>
-      <mask>*.html</mask>
-      <mask>*.lus</mask>
-      <mask>*.lua</mask>
-      <mask>*.l</mask>
-      <mask>*.t</mask>
-      <mask>*.jso</mask>
-      <mask>*.json</mask>
-      <mask>*.rob</mask>
-      <mask>*.ro</mask>
-      <mask>*.robo</mask>
-      <mask>*.robot</mask>
-      <mask>*.r</mask>
-      <mask>*.j</mask>
-      <mask>*.js</mask>
-      <mask>*.p</mask>
-      <mask>*.</mask>
-      <mask>*.y</mask>
-      <mask>*.ymnl</mask>
-      <mask>*.ymn</mask>
-      <mask>*.ym</mask>
-      <mask>*.yml</mask>
-      <mask>*.py</mask>
-    </recentFileMasks>
   </component>
 </application>
