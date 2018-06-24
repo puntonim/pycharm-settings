@@ -9,4 +9,9 @@
       <option name="Python" value="true" />
     </context>
   </template>
+  <template name="rdb" value="from celery.contrib import rdb; rdb.set_trace()" description="Celery remote debugger" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="Python" value="true" />
+    </context>
+  </template>
 </templateSet>
