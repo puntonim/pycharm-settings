@@ -8,6 +8,7 @@
       <mapping ext="ini-template" type="PLAIN_TEXT" />
       <mapping ext="local" type="PLAIN_TEXT" />
       <mapping ext="template" type="PLAIN_TEXT" />
+      <mapping ext="py-original" type="PLAIN_TEXT" />
       <mapping ext="rdb" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
