@@ -5,6 +5,7 @@
       <mapping pattern="dev_postactivate" type="PLAIN_TEXT" />
       <mapping pattern="-" type="PLAIN_TEXT" />
       <mapping pattern="Makefile" type="PLAIN_TEXT" />
+      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern="hosts" type="PLAIN_TEXT" />
       <mapping ext="ini-template" type="PLAIN_TEXT" />
       <mapping ext="local" type="PLAIN_TEXT" />
