@@ -2,7 +2,7 @@
   <component name="ApplicationTasksOptions">
     <global-watchers>
       <TaskOptions>
-        <option name="arguments" value="--exclude &quot;0001_initial.*&quot; $FilePath$" />
+        <option name="arguments" value="--exclude /0001_initial\.py/ $FilePath$" />
         <option name="checkSyntaxErrors" value="true" />
         <option name="description" />
         <option name="exitCodeBehavior" value="ERROR" />
