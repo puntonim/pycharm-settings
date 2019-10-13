@@ -4,21 +4,22 @@
     <extensionMap>
       <mapping pattern="*.js.flow" type="Flow" />
       <mapping pattern="*.js.flow" type="Flow" />
-      <mapping pattern="postactivate_paolo" type="PLAIN_TEXT" />
-      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern="dev_postactivate" type="PLAIN_TEXT" />
+      <mapping pattern="asfsdf" type="PLAIN_TEXT" />
+      <mapping pattern="postactivate_paolo" type="PLAIN_TEXT" />
       <mapping pattern="-" type="PLAIN_TEXT" />
+      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern="hosts" type="PLAIN_TEXT" />
-      <mapping ext="local" type="PLAIN_TEXT" />
       <mapping ext="ini-template" type="PLAIN_TEXT" />
+      <mapping ext="local" type="PLAIN_TEXT" />
+      <mapping ext="template" type="PLAIN_TEXT" />
+      <mapping ext="nimlink" type="PLAIN_TEXT" />
+      <mapping ext="py-original" type="PLAIN_TEXT" />
       <mapping ext="wlogs" type="PLAIN_TEXT" />
       <mapping ext="rdb" type="PLAIN_TEXT" />
-      <mapping ext="template" type="PLAIN_TEXT" />
-      <mapping ext="py-original" type="PLAIN_TEXT" />
-      <mapping ext="nimlink" type="PLAIN_TEXT" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
-      <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
       <removed_mapping pattern="Makefile" approved="true" type="PLAIN_TEXT" />
