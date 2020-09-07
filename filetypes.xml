@@ -18,6 +18,7 @@
       <mapping ext="ini-template" type="PLAIN_TEXT" />
       <mapping ext="new" type="PLAIN_TEXT" />
       <mapping ext="nimlink" type="PLAIN_TEXT" />
+      <mapping ext="dev" type="PLAIN_TEXT" />
       <mapping ext="bak" type="PLAIN_TEXT" />
       <mapping ext="wlogs" type="PLAIN_TEXT" />
       <mapping ext="rdb" type="PLAIN_TEXT" />
